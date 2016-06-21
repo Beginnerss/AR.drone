@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\hint_screen_absolute_control.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout-zh-xlarge\\hint_screen_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\settings_page_about.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout-zh-xlarge\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\guest_space_informations_page_fly_record_share.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-zh-xlarge\\guest_space_informations_page_fly_record_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\guest_space_informations_page_fly_record_share.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout-zh-xlarge\\guest_space_informations_page_fly_record_share.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\settings_page_about.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-zh-xlarge\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout-zh-xlarge-v4\\hint_screen_absolute_control.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-zh-xlarge\\hint_screen_absolute_control.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\action_bar_selector.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\action_bar_selector.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\text_color.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\text_color.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\top_bar_selector.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\top_bar_selector.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\sel_black.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\sel_black.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\firmware_update_text_color.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\firmware_update_text_color.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\text_color_light.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\text_color_light.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\color\\stay_tuned_text_selector.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\color\\stay_tuned_text_selector.xml"
+    }
+]

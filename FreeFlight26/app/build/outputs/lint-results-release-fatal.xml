@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 24.4.1">
+
+    <issue
+        id="WrongFolder"
+        severity="Fatal"
+        message="This file should be placed in a `values`/ folder, not a `layout`/ folder"
+        category="Correctness"
+        priority="8"
+        summary="Resource file in the wrong `res` folder"
+        explanation="Resource files are sometimes placed in the wrong folder, and it can lead to subtle bugs that are hard to understand. This check looks for problems in this area, such as attempting to place a layout &quot;alias&quot; file in a `layout/` folder rather than the `values/` folder where it belongs."
+        errorLine1="&lt;resources>"
+        errorLine2="^">
+        <location
+            file="C:\David Workplace\AndroidStudioProjects\FreeFlight26\app\src\main\res\layout-large\media_dimentions.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="ValidFragment"
+        severity="Fatal"
+        message="This fragment should provide a default constructor (a public constructor with no arguments) (`com.parrot.freeflight.activities.SettingsDialog`)"
+        category="Correctness"
+        priority="6"
+        summary="Fragment not instantiatable"
+        explanation="From the Fragment documentation:
+*Every* fragment must have an empty constructor, so it can be instantiated when restoring its activity&apos;s state. It is strongly recommended that subclasses do not have other constructors with parameters, since these constructors will not be called when the fragment is re-instantiated; instead, arguments can be supplied by the caller with `setArguments(Bundle)` and later retrieved by the Fragment with `getArguments()`."
+        url="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        urls="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        errorLine1="public class SettingsDialog extends DialogFragment"
+        errorLine2="             ~~~~~~~~~~~~~~">
+        <location
+            file="C:\David Workplace\AndroidStudioProjects\FreeFlight26\app\src\main\java\com\parrot\freeflight\activities\SettingsDialog.java"
+            line="45"
+            column="14"/>
+    </issue>
+
+    <issue
+        id="ValidFragment"
+        severity="Fatal"
+        message="Avoid non-default constructors in fragments: use a default constructor plus `Fragment#setArguments(Bundle)` instead"
+        category="Correctness"
+        priority="6"
+        summary="Fragment not instantiatable"
+        explanation="From the Fragment documentation:
+*Every* fragment must have an empty constructor, so it can be instantiated when restoring its activity&apos;s state. It is strongly recommended that subclasses do not have other constructors with parameters, since these constructors will not be called when the fragment is re-instantiated; instead, arguments can be supplied by the caller with `setArguments(Bundle)` and later retrieved by the Fragment with `getArguments()`."
+        url="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        urls="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        errorLine1="    public SettingsDialog(Context context, SettingsDialogDelegate delegate, DroneControlService service,"
+        errorLine2="           ^">
+        <location
+            file="C:\David Workplace\AndroidStudioProjects\FreeFlight26\app\src\main\java\com\parrot\freeflight\activities\SettingsDialog.java"
+            line="75"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="WrongCall"
+        severity="Fatal"
+        message="Suspicious method call; should probably call &quot;`draw`&quot; rather than &quot;`onDraw`&quot;"
+        category="Correctness"
+        priority="6"
+        summary="Using wrong draw/layout method"
+        explanation="Custom views typically need to call `measure()` on their children, not `onMeasure`. Ditto for onDraw, onLayout, etc."
+        errorLine1="                  view.onDraw(c);"
+        errorLine2="                       ~~~~~~"
+        quickfix="studio">
+        <location
+            file="C:\David Workplace\AndroidStudioProjects\FreeFlight26\app\src\main\java\com\parrot\freeflight\video\VideoStageView.java"
+            line="170"
+            column="24"/>
+    </issue>
+
+</issues>

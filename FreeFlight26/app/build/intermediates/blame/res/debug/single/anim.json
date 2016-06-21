@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up_in.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up_in.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down_out.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\anim\\slide_down_out.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down_out.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\slide_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]

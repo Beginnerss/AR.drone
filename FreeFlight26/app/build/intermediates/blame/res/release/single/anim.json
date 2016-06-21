@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\anim\\nothing.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up_in.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_down_out.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\anim\\slide_down_out.xml"
+    }
+]

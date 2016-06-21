@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\layout-ja-xlarge-v4\\guest_space_informations_page_video_games.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-ja-xlarge\\guest_space_informations_page_video_games.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\layout-ja-xlarge-v4\\hint_screen_absolute_control.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-ja-xlarge\\hint_screen_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\layout-ja-xlarge-v4\\guest_space_informations_page_fly_record_share.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-ja-xlarge\\guest_space_informations_page_fly_record_share.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\layout-ja-xlarge-v4\\settings_page_about.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-ja-xlarge\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\release\\layout-ja-xlarge-v4\\guest_space_informations_page_super_stable.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout-ja-xlarge\\guest_space_informations_page_super_stable.xml"
+    }
+]

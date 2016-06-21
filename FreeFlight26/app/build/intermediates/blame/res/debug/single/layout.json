@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_share.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_usb.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_usb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_about.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_flip.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_video.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_header.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\tips_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_page_device.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\ff2_settings_page_device.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_flip.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_flip.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_device.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\settings_page_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hud_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hud_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_emergency.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_ardrone.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\settings_page_ardrone.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_super_stable.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_super_stable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_share.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_button_nok.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\dashboard_button_nok.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firmware_update_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\firmware_update_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_video_games.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_video_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_switch.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_hovering.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_hovering.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_about.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\incl_action_bar.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\incl_action_bar.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_fly_record_share.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_fly_record_share.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hud_popup.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hud_popup.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_joypad_mode.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_joypad_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_camera.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remote_instructions.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\remote_instructions.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_absolute_control.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_hovering.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_hovering.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_geolocation.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_geolocation.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browse_web_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\browse_web_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_share.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_share.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_button_nok.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\dashboard_button_nok.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\incl_status_bar.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\incl_status_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_view.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_take_off.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_take_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_flight.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\settings_page_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_stay_tuned.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_stay_tuned.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_switch.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_page_ardrone.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\ff2_settings_page_ardrone.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_share.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_video_games.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_video_games.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_landing.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_landing.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\gallery_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_absolute_control.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\dashboard_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_record.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_record.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_geolocation.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_geolocation.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_stay_tuned.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_stay_tuned.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_flight.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\settings_page_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_video.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\settings_page_video.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_usb.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_usb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\ff2_settings_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_joypad_mode.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_joypad_mode.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_video.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\settings_page_video.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\incl_status_bar.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\incl_status_bar.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\ff2_settings_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_fly_record_share.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_fly_record_share.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remote_instructions.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\remote_instructions.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_video.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\gallery_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firmware_update_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\firmware_update_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_landing.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_landing.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_camera.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_camera.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\media_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_device.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\settings_page_device.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_page_device.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\ff2_settings_page_device.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\browser_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\browser_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\media_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_take_off.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_take_off.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\a.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\a.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\media_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_emergency.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\dashboard_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_altitude.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hint_screen_altitude.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\a.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\a.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hud_popup.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\hud_popup.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_view.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_ardrone.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\settings_page_ardrone.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\media_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_header.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\tips_header.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hud_screen.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hud_screen.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_record.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_record.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_absolute_control.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\guest_space_informations_page_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_super_stable.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_super_stable.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ff2_settings_page_ardrone.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\ff2_settings_page_ardrone.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hint_screen_altitude.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\hint_screen_altitude.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browse_web_screen.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\browse_web_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guest_space_informations_page_absolute_control.xml",
+        "source": "C:\\Users\\pro\\Downloads\\FreeFlight2\\app\\src\\main\\res\\layout\\guest_space_informations_page_absolute_control.xml"
+    },
+    {
+        "merged": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\build\\intermediates\\res\\merged\\debug\\layout\\incl_action_bar.xml",
+        "source": "C:\\David Workplace\\AndroidStudioProjects\\FreeFlight26\\app\\src\\main\\res\\layout\\incl_action_bar.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:onClick="myArduinoControlFly"
+        android:text="启动壁障程序" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:onClick="myTakeOff"
+        android:text="起飞降落" />
+
+   <!-- <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:onClick="myLeftFly"
+        android:text="向左飞行" />-->
+    <Button
+        android:id="@+id/btn_left"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:text="向左飞行" />
+
+    <Button
+        android:id="@+id/btn_right"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:text="向右飞行" />
+
+    <Button
+        android:id="@+id/btn_Forward"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:text="向前飞行" />
+
+    <Button
+        android:id="@+id/btn_Backward"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:text="向后飞行" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_blue"
+        android:text="蓝牙数据"
+        android:gravity="center"/>
+
+</LinearLayout>

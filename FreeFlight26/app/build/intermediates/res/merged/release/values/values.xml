@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="boolean" name="settings_pause_video_when_opened" type="bool">false</item>
+    <color name="accent">#ffff7800</color>
+    <color name="accent_half_transp">#88ff7800</color>
+    <color name="black">#ff000000</color>
+    <color name="bottom_bar_background">@color/top_bar_accent</color>
+    <color name="dashboard_button_light">#44000000</color>
+    <color name="default_circle_indicator_active_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_color">#99FFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="hud_popup_text_color">@color/white</color>
+    <color name="panel_dark_button_bg">#ff000000</color>
+    <color name="settings_button_text">@color/white</color>
+    <color name="settings_button_text_pressed">@color/settings_text_color</color>
+    <color name="settings_text_color">#000000</color>
+    <color name="text_color_disabled">#667f7f7f</color>
+    <color name="text_color_normal">#ff7f7f7f</color>
+    <color name="top_bar_accent">#FF777777</color>
+    <color name="top_bar_background">@color/accent</color>
+    <color name="top_bar_text">@color/accent</color>
+    <color name="top_bar_title">@color/white</color>
+    <color name="transparent">#BBFFFFFF</color>
+    <color name="transparent_full">#00000000</color>
+    <color name="video_window_background">@color/black</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_half_transparent">#7cffffff</color>
+    <color name="window_background">@color/white</color>
+    <declare-styleable name="ImageStickView"><attr format="reference" name="baseViewId"/></declare-styleable>
+    <declare-styleable name="ImageStickView_Layout"><attr format="integer" name="layout_anchorTop"/><attr format="integer" name="layout_anchorLeft"/><attr format="integer" name="layout_anchorRight"/><attr format="integer" name="layout_anchorBottom"/></declare-styleable>
+    <declare-styleable name="ParrotSeekBar"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="lowerValuePaddingLeft"/><attr format="dimension" name="upperValuePaddingRight"/><attr format="string" name="upperBoundText"/><attr format="string" name="lowerBoundText"/><attr format="dimension" name="textPaddingTop"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="viewPagerIndicatorStyle"/><attr format="color" name="color"/><attr format="color" name="activeColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="gap"/></declare-styleable>
+    <dimen name="browser_screen_arrow_left_padding">10dp</dimen>
+    <dimen name="browser_screen_arrow_right_padding">15dp</dimen>
+    <dimen name="browser_screen_bar_right_padding">10dp</dimen>
+    <dimen name="dashboard_button_height">105dp</dimen>
+    <dimen name="dashboard_button_line_spacing">8dp</dimen>
+    <dimen name="dashboard_button_margin_hor">10dp</dimen>
+    <dimen name="dashboard_button_margin_vert">5dp</dimen>
+    <dimen name="dashboard_label_version_margin_bottom">8dp</dimen>
+    <dimen name="dashboard_label_version_margin_left">4dp</dimen>
+    <dimen name="dashboard_logo_margin_top">0dp</dimen>
+    <dimen name="dashboard_logo_padding_bottom">0dp</dimen>
+    <dimen name="default_circle_indicator_gap">5dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="firmware_curr_step_font_size">18sp</dimen>
+    <dimen name="firmware_curr_step_title_margin_top">55dp</dimen>
+    <dimen name="firmware_message_margin_top">-5dp</dimen>
+    <dimen name="firmware_progress_bar_margin_top">0dp</dimen>
+    <dimen name="firmware_progress_bar_width">200dp</dimen>
+    <dimen name="firmware_steps_font_size">17sp</dimen>
+    <dimen name="firmware_steps_margin_bottom">25dp</dimen>
+    <dimen name="firmware_steps_margin_left">36dp</dimen>
+    <dimen name="firmware_steps_vertical_margin">0dp</dimen>
+    <dimen name="firmware_text_font_size">17sp</dimen>
+    <dimen name="guest_space_bottom_buttons_height">30dp</dimen>
+    <dimen name="guest_space_bottom_buttons_padding">4dp</dimen>
+    <dimen name="guest_space_bottom_buttons_text_size">13sp</dimen>
+    <dimen name="guest_space_super_stable_description_text_lineSpacingExtra">0dp</dimen>
+    <dimen name="guest_space_super_stable_description_text_size">15sp</dimen>
+    <dimen name="hint_screen_description_height">60dp</dimen>
+    <dimen name="hint_screen_description_text_size">14dp</dimen>
+    <dimen name="hint_screen_progress_padding">4dp</dimen>
+    <dimen name="hint_screen_title_height">33dp</dimen>
+    <dimen name="hint_screen_title_margin_top">9dp</dimen>
+    <dimen name="hint_screen_title_text_size">27dp</dimen>
+    <dimen name="hud_alert_text_margin_top">100dp</dimen>
+    <dimen name="hud_alert_text_size">18sp</dimen>
+    <dimen name="hud_battery_indicator_margin_left">52dp</dimen>
+    <dimen name="hud_battery_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_battery_text_size">15sp</dimen>
+    <dimen name="hud_btn_back_margin_left">4dp</dimen>
+    <dimen name="hud_btn_camera_switch_margin_right">145dp</dimen>
+    <dimen name="hud_btn_rec_margin_right">81dp</dimen>
+    <dimen name="hud_btn_settings_margin_left">120dp</dimen>
+    <dimen name="hud_joy_margin">25dp</dimen>
+    <dimen name="hud_popup_height">75dp</dimen>
+    <dimen name="hud_popup_margin_top">50dp</dimen>
+    <dimen name="hud_popup_text_size">16sp</dimen>
+    <dimen name="hud_popup_width">380dp</dimen>
+    <dimen name="hud_rec_text_margin_right">93dp</dimen>
+    <dimen name="hud_rec_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_rec_text_size">@dimen/hud_battery_text_size</dimen>
+    <dimen name="hud_top_text_margin_top">6dp</dimen>
+    <dimen name="hud_usb_indicator_margin_right">75dp</dimen>
+    <dimen name="hud_usb_indicator_text_margin_right">53dp</dimen>
+    <dimen name="hud_usb_indicator_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_usb_indicator_text_size">@dimen/hud_battery_text_size</dimen>
+    <dimen name="hud_wifi_indicator_margin_left">170dp</dimen>
+    <dimen name="media_screen_filter_photo_video_width">45dp</dimen>
+    <dimen name="media_screen_filter_photo_width">23dp</dimen>
+    <dimen name="media_screen_thumb_padding">4dp</dimen>
+    <dimen name="media_screen_thumb_size">80dp</dimen>
+    <dimen name="orange_bar_title_text_margin">20dp</dimen>
+    <dimen name="orange_bar_title_text_size">20dp</dimen>
+    <dimen name="orange_bar_web_btn_width">30dp</dimen>
+    <dimen name="photo_video_bar_text_size">15dp</dimen>
+    <dimen name="photo_video_bottom_bar_height">30dp</dimen>
+    <dimen name="photo_video_button_drawable_margin">-20dip</dimen>
+    <dimen name="photo_video_button_drawable_padding">3dip</dimen>
+    <dimen name="photo_video_white_separator_height">20dp</dimen>
+    <dimen name="photo_video_white_separator_margin">20dp</dimen>
+    <dimen name="photo_video_white_separator_width">2dp</dimen>
+    <dimen name="settings_calibration_btn_padding">20dp</dimen>
+    <dimen name="settings_calibration_btn_vert_padding">4dp</dimen>
+    <dimen name="settings_edit_network_name_width">@dimen/settings_seek_width</dimen>
+    <dimen name="settings_header_height">28dp</dimen>
+    <dimen name="settings_header_text_size">22sp</dimen>
+    <dimen name="settings_hor_gap">10dp</dimen>
+    <dimen name="settings_pager_button_width">20dp</dimen>
+    <dimen name="settings_section_check_text_size">12dp</dimen>
+    <dimen name="settings_section_video_item_height">30dp</dimen>
+    <dimen name="settings_section_video_item_width">75dp</dimen>
+    <dimen name="settings_seek_bounds_value_padding">10dp</dimen>
+    <dimen name="settings_seek_text_padding_top">3dp</dimen>
+    <dimen name="settings_seek_width">250dp</dimen>
+    <dimen name="settings_statusbar_button_text_size">15dp</dimen>
+    <dimen name="settings_statusbar_button_width">190dp</dimen>
+    <dimen name="settings_text_size">18sp</dimen>
+    <dimen name="settings_text_small_size">14sp</dimen>
+    <dimen name="settings_vertical_gap">15dp</dimen>
+    <dimen name="settings_vertical_gap_small">5dp</dimen>
+    <dimen name="theme_seekbar_progress_height">12dp</dimen>
+    <dimen name="top_panel_height">17dp</dimen>
+    <dimen name="top_panel_text_margin_left">4dp</dimen>
+    <dimen name="top_panel_text_size">13sp</dimen>
+    <integer name="media_gallery_columns_count">6</integer>
+    <string name="ABSOLUTE_CONTROL_only_ardrone_2">ABSOLUTE CONTROL (only AR.Drone 2)</string>
+    <string name="ACTIVATE_ABSOLUTE_CONTROL_MODE_FOR_EASY_CONTROL">ACTIVATE ABSOLUTE CONTROL MODE FOR EASY CONTROL!</string>
+    <string name="ACTIVATE_LOCATION_SERVICES_TO_GEOLOCATE_THE_FLIGHTS">ACTIVATE LOCATION SERVICES ON THE IPHONE/IPAD\nFOR USE IN THE AR.DRONE ACADEMY!</string>
+    <string name="ACTIVATE_THE_FLIP_IN_THE_PARAMETERS">ACTIVATE THE FLIP SETTING AND DOUBLE TAP\nON THE SCREEN TO FLIP AS YOU FLY!</string>
+    <string name="ACTIVATE_THE_USB_RECORDING_OPTION_TO_RECORD_DIRECTLY_ON_A_USB_KEY">ACTIVATE THE USB RECORDING OPTION TO RECORD DIRECTLY ON A USB KEY</string>
+    <string name="ALTITUDE">ALTITUDE</string>
+    <string name="ARDRONE_2_0">AR.DRONE 2.0</string>
+    <string name="ARDRONE_ACADEMY">AR.DRONE\nACADEMY</string>
+    <string name="ARDRONE_UPDATE">AR.DRONE\nUPDATE</string>
+    <string name="AR_DRONE_UPDATE">AR.DRONE UPDATE</string>
+    <string name="Absolute_Control">Absolute Control</string>
+    <string name="Ardrone_com">Ardrone.com</string>
+    <string name="Augmented_Reality">Augmented Reality</string>
+    <string name="BATTERY_LOW_ALERT">BATTERY LOW ALERT</string>
+    <string name="BATTERY_LOW_EMERGENCY">BATTERY LOW EMERGENCY</string>
+    <string name="Bad_network_name">Bad network name</string>
+    <string name="CAMERA_EMERGENCY">CAMERA EMERGENCY</string>
+    <string name="CHANGE_THE_ALTITUDE_LIMIT_IN_THE_FLIGHT_SETTNGS">CHANGE THE ALTITUDE LIMIT IN THE FLIGHT SETTNGS</string>
+    <string name="CONTROL_LINK_NOT_AVAILABLE">CONTROL LINK NOT AVAILABLE</string>
+    <string name="CUT_OUT_EMERGENCY">CUT OUT EMERGENCY</string>
+    <string name="DEMO">DEMO</string>
+    <string name="EMERGENCY">EMERGENCY</string>
+    <string name="FLIGHT_SETTINGS">FLIGHT SETTINGS</string>
+    <string name="FLIP_only_ardrone_2">FLIP (only AR.Drone 2.0)</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Follow_up">Follow up</string>
+    <string name="GAMES">GAMES</string>
+    <string name="GEOLOCATION">GEOLOCATION</string>
+    <string name="Go_to_web_site">Go to web site</string>
+    <string name="HD_camera">HD camera</string>
+    <string name="HOVERING">HOVERING</string>
+    <string name="INFORMATIONS">INFORMATIONS</string>
+    <string name="IN_CASE_OF_EMERGENCY_PRESS_THE_BUTTON">IN CASE OF EMERGENCY PRESS THE BUTTON TO SHUT DOWN THE ENGINES</string>
+    <string name="If_you_want_to_store_your_location_anc_access_your_media_enable_it">If you want to store your location and access your media gallery, enable it in your device\'s settings.</string>
+    <string name="JOYPAD_MODE">JOYPAD MODE</string>
+    <string name="Join_Our_Community">Join Our Community</string>
+    <string name="LANDING">LANDING</string>
+    <string name="LOADING">LOADING…</string>
+    <string name="Like">Like</string>
+    <string name="Location_services_alert">Location Services Alert</string>
+    <string name="MOTORS_EMERGENCY">MOTORS EMERGENCY</string>
+    <string name="NO_SD_CARD_INSERTED">NO SD CARD MOUNTED</string>
+    <string name="Newsletter">Newsletter</string>
+    <string name="OFF_TILT_YOUR_DEVICE_TO_CONTROL_THE_ARDRONE">OFF: TILT YOUR DEVICE TO\nCONTROL THE AR.DRONE</string>
+    <string name="ON_MOVE_YOUR_LEFT_THUMB_ON_THE_SCREEN_TO_CONTROL_THE_ARDRONE">ON: MOVE YOUR LEFT THUMB ON THE\nSCREEN TO CONTROL THE AR.DRONE</string>
+    <string name="PERSONAL_SETTINGS">PERSONAL SETTINGS</string>
+    <string name="PHOTOS_VIDEOS">PHOTOS\nVIDEOS</string>
+    <string name="PIC_VERSION_EMERGENCY">PIC VERSION EMERGENCY</string>
+    <string name="PIC_WATCHDOG_EMERGENCY">PIC WATCHDOG EMERGENCY</string>
+    <string name="PILOTING">PILOTING</string>
+    <string name="PILOTING_MODE">PILOTING MODE</string>
+    <string name="PRESS_THE_REC_BUTTON_TO_START_AND_STOP_RECORDING">PRESS THE REC BUTTON TO START AND STOP RECORDING VIDEO</string>
+    <string name="PRESS_THIS_BUTTON_TO_SWITCH_BETWEEN_FRONTAL_CAMERA">PRESS THIS BUTTON TO SWITCH BETWEEN\nFRONTAL CAMERA AND VERTICAL CAMERA</string>
+    <string name="Please_insert_a_SD_card_in_your_Smartphone">Please insert a SD card in your Smartphone</string>
+    <string name="Please_unplug_your_USB_key_from_the_ARDrone_now">Please un-plug your USB key from the AR.Drone now.</string>
+    <string name="RECORD">RECORD</string>
+    <string name="RELEASE_THE_CONTROLS_TO_CHANGE_TO_HOVERING_MODE">RELEASE THE CONTROLS TO CHANGE TO HOVERING MODE</string>
+    <string name="SHARE">SHARE</string>
+    <string name="SHARE_YOUR_VIDEOS_AND_PHOTOS_DIRECTLY">SHARE YOUR VIDEOS AND PHOTOS DIRECTLY FROM AR.FREEFLIGHT 2.0!</string>
+    <string name="START_NOT_RECEIVED">START NOT RECEIVED</string>
+    <string name="STATUS">STATUS</string>
+    <string name="STAY_TUNED">STAY TUNED</string>
+    <string name="SWITCH">SWITCH</string>
+    <string name="Share">Share</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="Stay_Tuned">Stay Tuned</string>
+    <string name="TAKE_OFF">TAKE OFF</string>
+    <string name="TOO_MUCH_ANGLE_EMERGENCY">TOO MUCH ANGLE EMERGENCY</string>
+    <string name="TO_LAND_PRESS_THE_LANDING_BUTTON_ONCE">TO LAND, PRESS THE LANDING BUTTON ONCE</string>
+    <string name="TO_TAKE_OFF_PRESS_THE_TAKE_OFF_BUTTON_ONCE">TO TAKE OFF, PRESS THE TAKE OFF BUTTON ONCE</string>
+    <string name="The_ARDrone_is_super_stable">The AR.Drone is super stable</string>
+    <string name="Twitter">Twitter</string>
+    <string name="ULTRASOUND_ALERT">ULTRASOUND ALERT</string>
+    <string name="ULTRASOUND_EMERGENCY">ULTRASOUND EMERGENCY</string>
+    <string name="UNKNOWN_EMERGENCY">UNKNOWN EMERGENCY</string>
+    <string name="USB">USB</string>
+    <string name="USB_drive_full_Please_connect_a_new_one">USB drive full\nPlease connect a new one</string>
+    <string name="USERS_VIDEOS">USERS VIDEOS</string>
+    <string name="USER_EMERGENCY">USER EMERGENCY</string>
+    <string name="Update_Warning">Update Warning</string>
+    <string name="VIDEO_CONNECTION_ALERT">VIDEO CONNECTION ALERT</string>
+    <string name="VIDEO_SETTINGS">VIDEO SETTINGS</string>
+    <string name="VISION_ALERT">VISION ALERT</string>
+    <string name="Video_Games">Video Games</string>
+    <string name="WHERE_TO_BUY">WHERE TO BUY</string>
+    <string name="Your_video_is_being_processed_Please_do_not_close_application">Your video is being processed\nPlease do not close the application\nIt will appear shortly in the video section</string>
+    <string name="absolute_control">ABSOLUTE CONTROL</string>
+    <string name="absolute_control_description">A new mode for beginners: \nUsing an absolute reference, the drone pilots\nitself without worrying about its orientation</string>
+    <string name="adaptive_video">ADAPTIVE VIDEO</string>
+    <string name="altitude_limit">ALTITUDE LIMIT</string>
+    <string name="app_name">AR.FreeFlight</string>
+    <string name="app_version">v2.0-SDK</string>
+    <string name="ar_drone">AR.Drone</string>
+    <string name="ar_drone_update">AR.DRONE UPDATE</string>
+    <string name="ardrone_firmware">AR.Drone firmware </string>
+    <string name="automatic_skip">AUTOMATIC SKIP</string>
+    <string name="browser_done">Done</string>
+    <string name="browser_error">Error: Could not connect to the server</string>
+    <string name="calibration">CALIBRATION*</string>
+    <string name="cancel_capit">CANCEL</string>
+    <string name="checking_repairing">CHECKING / REPAIRING…</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="default_settings">DEFAULT SETTINGS</string>
+    <string name="deg_per_sec">°/s</string>
+    <string name="degree_sign">°</string>
+    <string name="delete">DELETE</string>
+    <string name="delete_media">Delete media</string>
+    <string name="delete_popup">Do you want to delete this media?</string>
+    <string name="edit">EDIT</string>
+    <string name="flat_trim">FLAT TRIM</string>
+    <string name="fly_record_share">Fly, Record, Share</string>
+    <string name="freeflight">AR.FREEFLIGHT</string>
+    <string name="guest_share_description">With the AR.Drone Academy, meet\nother pilots! Share your videos on\nYouTube and your photos on Picasa</string>
+    <string name="guest_super_stable_description">- New 13-axis inertia centre merged by Kalman filter\nfor the best-ever control on a micro drone!\n- 3-axis gyroscope, 3-axis accelerometer, 3-axis magnetometer\n- Ultrasound, pressure sensor\n- Vertical camera to measure ground speed on 2 axes</string>
+    <string name="guest_video_games_description">Take part into wild races, fight with\nyour friends or against AI thanks to\nthe AR.drone detection capacities.</string>
+    <string name="hardware">Hardware</string>
+    <string name="hd_camera_description">- 720p\n- 30 fps\n- H264 coding\n- Recording on your\niPhone/iPad by streaming\nWi-Fi or on USB key</string>
+    <string name="how_to_control">HOW TO CONTROL THE AR.DRONE?</string>
+    <string name="if_ardrone_led_green_reset_wifi_connection">If AR.Drone led is green, reset the Wi-Fi connection.</string>
+    <string name="inertial">INERTIAL</string>
+    <string name="installing">INSTALLING</string>
+    <string name="interface_opacity">INTERFACE OPACITY</string>
+    <string name="internet_connection_not_available">INTERNET CONNECTION NOT AVAILABLE</string>
+    <string name="keep_your_distance_with_your_ardrone">*Keep your distance from your AR.Drone. It will now spin once to calibrate its compass.</string>
+    <string name="left_handed">LEFT-HANDED</string>
+    <string name="loading">Loading…</string>
+    <string name="looping_enabled">FLIP ENABLED</string>
+    <string name="meters">m</string>
+    <string name="mm_per_sec">mm/s</string>
+    <string name="motor_1">MOTOR 1</string>
+    <string name="motor_2">MOTOR 2</string>
+    <string name="motor_3">MOTOR 3</string>
+    <string name="motor_4">MOTOR 4</string>
+    <string name="motors_versions">MOTORS VERSIONS</string>
+    <string name="network_name">AR.DRONE NETWORK NAME</string>
+    <string name="none">none</string>
+    <string name="not_implemented_yet">NOT IMPLEMENTED YET</string>
+    <string name="of">of</string>
+    <string name="outdoor_flight">OUTDOOR FLIGHT</string>
+    <string name="outdoor_hull">OUTDOOR HULL</string>
+    <string name="p264">P264</string>
+    <string name="pairing">PAIRING</string>
+    <string name="photos_videos">PHOTOS / VIDEOS</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="quit_app_reboot_drone_connect_to_network">\t- Quit application\n\t- Reboot your AR.Drone\n\t- Connect your {device} on {network} network\n\t- Launch application</string>
+    <string name="restarting_ardrone">RESTARTING AR.DRONE</string>
+    <string name="select_all">SELECT ALL</string>
+    <string name="sending_file">SENDING FILE</string>
+    <string name="share">Share</string>
+    <string name="share_capit">SHARE</string>
+    <string name="skip">skip</string>
+    <string name="software">Software</string>
+    <string name="sort">SORT: </string>
+    <string name="start">START</string>
+    <string name="the_network_name_can_only_contain_alphanumeric_characters_and_underscores_and_must_not_be_longer_than_32_characters_">The network name can only contain alphanumeric characters and underscores, and must not be longer than 32 characters.</string>
+    <string name="the_new_generation_of_ar_drone_has_arrived">The new generation of AR.Drone has arrived</string>
+    <string name="there_is_no_flight_photos_or_videos_saved_in_your_phone">NO FLIGHT PHOTOS OR VIDEOS SAVED ON YOUR DEVICE</string>
+    <string name="tilt_angle_max">TILT ANGLE MAX</string>
+    <string name="tilt_max">TILT MAX</string>
+    <string name="type">Type</string>
+    <string name="update_file_sent_successfully_please_restart_drone">Update file sent successfully\nPlease restart the AR.Drone</string>
+    <string name="url_aa_register">http://ardrone2.parrot.com/promo/aa/</string>
+    <string name="url_ardrone_website">http://ardrone.parrot.com/parrot-ar-drone/usa/</string>
+    <string name="url_demostore">http://ardrone2.parrot.com/promo/getademo/</string>
+    <string name="url_facebook">http://www.facebook.com/parrot</string>
+    <string name="url_newsletter">http://www.parrot-register.com/newsletter.asp?mail=</string>
+    <string name="url_twitter">http://www.twitter.com/ardrone</string>
+    <string name="url_user_videos">http://m.youtube.com/playlist?list=PL4499009D796F2BEA</string>
+    <string name="url_where_to_buy">http://ardrone.parrot.com/parrot-ar-drone/usa/where-to-buy</string>
+    <string name="url_where_to_buy_nook">http://www.barnesandnoble.com/p/toys-games-parrot-ardrone-20-quadricopter-blue/24151641?ean=3520410007286</string>
+    <string name="usb_record">USB RECORD</string>
+    <string name="version">Version</string>
+    <string name="vertical_speed_max">VERTICAL SPEED MAX</string>
+    <string name="video_codec">VIDEO CODEC</string>
+    <string name="vlib">VLIB</string>
+    <string name="we_have_no_games_yet">COMING SOON</string>
+    <string name="wifi_not_available_please_connect_device_to_drone">Wi-Fi NOT AVAILABLE, PLEASE CONNECT YOUR DEVICE TO YOUR AR.DRONE</string>
+    <string name="with_the_pilot_community">with the pilot community</string>
+    <string name="yaw_speed_max">ROTATION SPEED MAX</string>
+    <string name="your_ar_drone_is_up_to_date">YOUR AR.DRONE IS UP TO DATE</string>
+    <string name="your_changes_will_be_applied_after_rebooting_drone">Your changes will be applied after rebooting the Ar.Drone!</string>
+    <string name="your_device_is_low_on_disk_space">Your device is low on disk space</string>
+    <style name="ARDroneDashboard.Label" parent="@android:style/TextAppearance.Widget.TextView"/>
+    <style name="BottomBarButton" parent="@android:style/Widget.DeviceDefault.Button">
+        <item name="android:background">@drawable/bottom_button_bar_bg</item>
+        <item name="android:textColor">@color/text_color_light</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:padding">4dip</item>
+        <item name="android:textSize">@dimen/settings_statusbar_button_text_size</item>
+    </style>
+    <style name="FirmwareUpdateText">
+        <item name="android:textColor">@color/firmware_update_text_color</item>
+    </style>
+    <style name="FreeFlight.SplashScreen" parent="FreeFlightBase">
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="FreeFlightBase" parent="@android:Theme.Light"/>
+    <style name="FreeFlightTheme" parent="FreeFlightBase">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:checkboxStyle">@style/SettingsCheckBox</item>
+        <item name="android:buttonStyle">@style/SettingsButton</item>
+        <item name="android:editTextStyle">@style/SettingsEditText</item>
+        <item name="android:textViewStyle">@style/TextView</item>
+        <item name="viewPagerIndicatorStyle">@style/ViewPagerIndicatorStyle</item>
+    </style>
+    <style name="FreeFlightTheme.BrowserScreen" parent="FreeFlightTheme">
+        <item name="android:animateLayoutChanges">false</item>
+        <item name="android:buttonStyle">@android:style/Widget.Button</item>
+    </style>
+    <style name="FreeFlightTheme.Dashboard" parent="FreeFlightTheme">
+        <item name="android:windowBackground">@drawable/ff2_flying_drone</item>
+    </style>
+    <style name="FreeFlightTheme.FirmwareUpdateScreen" parent="FreeFlightTheme">
+        <item name="android:textViewStyle">@style/FirmwareUpdateText</item>
+        <item name="android:progressBarStyle">@style/ProgressBar</item>
+    </style>
+    <style name="FreeFlightTheme.HudScreen" parent="FreeFlightTheme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="FreeFlightTheme.SettingsScreen" parent="FreeFlightTheme">
+        <item name="android:windowBackground">@color/transparent</item>
+         <item name="android:textViewStyle">@style/SettingsTextView</item>
+         <item name="android:seekBarStyle">@style/SettingsSeekBar</item>
+         <item name="android:progressBarStyle">@style/ProgressBar</item>
+         <item name="android:windowSoftInputMode">stateUnchanged|adjustNothing</item>
+    </style>
+    <style name="FreeFlightTheme.TipsScreen" parent="FreeFlightTheme">
+      	
+    </style>
+    <style name="FreeFlightTheme.VideoScreen" parent="FreeFlightBase">
+        <item name="android:windowBackground">@color/video_window_background</item>
+    </style>
+    <style name="GuestSpaceSwitchButton" parent="@android:style/Widget.DeviceDefault.Button">
+        <item name="android:background">@drawable/bottom_button_bar_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingLeft">@dimen/guest_space_bottom_buttons_padding</item>
+        <item name="android:paddingRight">@dimen/guest_space_bottom_buttons_padding</item>
+        <item name="android:textSize">@dimen/guest_space_bottom_buttons_text_size</item>
+    </style>
+    <style name="HintTextDescription" parent="@android:style/Widget.TextView"> 
+    	<item name="android:textSize">@dimen/hint_screen_description_text_size</item>
+    	<item name="android:textColor">@color/stay_tuned_text_selector</item>
+    	<item name="android:lineSpacingMultiplier">1.33</item>
+    	<item name="android:paddingTop">5dp</item>
+   	    <item name="android:gravity">center</item>
+    	<item name="android:lineSpacingExtra">@dimen/guest_space_super_stable_description_text_lineSpacingExtra</item>
+    </style>
+    <style name="HintTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/hint_screen_title_text_size</item>
+        <item name="android:textColor">#000000</item> 
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="HudPopupText">
+        <item name="android:textColor">@color/hud_popup_text_color</item>
+        <item name="android:textSize">@dimen/hud_popup_text_size</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="InfosTextDescription" parent="@android:style/Widget.TextView"> 
+    	<item name="android:textSize">15sp</item>
+    	<item name="android:textColor">@color/stay_tuned_text_selector</item>
+    	<item name="android:lineSpacingMultiplier">1.42</item>
+    	<item name="android:lineSpacingExtra">@dimen/guest_space_super_stable_description_text_lineSpacingExtra</item>
+    </style>
+    <style name="InfosTextDescription.SuperStable"> 
+    	<item name="android:textSize">@dimen/guest_space_super_stable_description_text_size</item>
+    	<item name="android:lineSpacingExtra">@dimen/guest_space_super_stable_description_text_lineSpacingExtra</item>
+    </style>
+    <style name="InfosTextLarge" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">27sp</item>
+        <item name="android:textColor">#000000</item> 
+    </style>
+    <style name="InfosTextMedium" parent="@android:style/Widget.TextView">
+   	  	<item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item> 
+    </style>
+    <style name="LabelSettings">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+    <style name="LabelSettings.SeekBarEdgeValues">
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="LabelSettings.Value">
+        <item name="android:textSize">24dp</item>
+    </style>
+    <style name="LabelSettings.Value.Seek">
+        <item name="android:paddingBottom">5dip</item>
+    </style>
+    <style name="LabelSettings.smaller">
+        <item name="android:textSize">16dp</item>
+    </style>
+    <style name="MediaGallery.FilterButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="MediaGallery.FilterPhoto" parent="MediaGallery.FilterButton">
+        <item name="android:button">@drawable/rbtn_photo</item>
+       <item name="android:width">@dimen/media_screen_filter_photo_width</item>
+    </style>
+    <style name="MediaGallery.FilterPhotoVideo" parent="MediaGallery.FilterButton">
+        <item name="android:button">@drawable/rbtn_photo_video</item>
+        <item name="android:width">@dimen/media_screen_filter_photo_video_width</item>
+    </style>
+    <style name="MediaGallery.FilterVideo" parent="MediaGallery.FilterButton">
+        <item name="android:button">@drawable/rbtn_video</item>
+        <item name="android:width">@dimen/media_screen_filter_photo_width</item>
+    </style>
+    <style name="PhotoVideoActionButton" parent="PhotoVideoButton">
+        <item name="android:textColor">@color/action_bar_selector</item>
+        <item name="android:background">@drawable/black</item>
+    </style>
+    <style name="PhotoVideoButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/transparent_full</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/photo_video_bar_text_size</item>
+    </style>
+    <style name="PhotoVideoGreyButton" parent="PhotoVideoButton">
+        <item name="android:background">@color/gray</item>
+    </style>
+    <style name="PhotoVideoText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/photo_video_bar_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="ProgressBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_bar</item>
+    </style>
+    <style name="RemoteScreenText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="SettingsButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_color</item>
+        <item name="android:paddingTop">@dimen/settings_calibration_btn_vert_padding</item>
+        <item name="android:paddingBottom">@dimen/settings_calibration_btn_vert_padding</item>
+        <item name="android:paddingLeft">@dimen/settings_calibration_btn_padding</item>
+        <item name="android:paddingRight">@dimen/settings_calibration_btn_padding</item>
+        <item name="android:textColor">@drawable/settings_button</item>
+        <item name="android:textSize">@dimen/settings_text_size</item>
+    </style>
+    <style name="SettingsCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox</item>
+        <item name="android:background">@drawable/checkbox_bg</item>
+        <item name="android:textSize">@dimen/settings_text_size</item>
+    </style>
+    <style name="SettingsDialog" parent="Theme.Transparent">
+        <item name="android:alwaysDrawnWithCache">true</item>
+    </style>
+    <style name="SettingsEditText" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/edit_field</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/settings_text_size</item>
+    </style>
+    <style name="SettingsNavigationButton" parent="@android:style/Widget.DeviceDefault.ImageButton">
+     <!--    <item name="android:background">@color/transparent_full</item> -->
+     	<item name="android:background">@null</item>
+    </style>
+    <style name="SettingsNavigationButton.Next">
+        <item name="android:src">@drawable/arrow_right_orange</item>
+    </style>
+    <style name="SettingsNavigationButton.Prev">
+        <item name="android:src">@drawable/arrow_left_orange</item>
+    </style>
+    <style name="SettingsSeekBar" parent="@android:style/Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/seek_bar</item>
+        <item name="android:thumb">@drawable/scroll_btn</item>
+        <item name="android:thumbOffset">2dip</item>
+        <item name="android:paddingLeft">2dip</item>
+        <item name="android:paddingRight">2dip</item>
+        <item name="android:minHeight">@dimen/theme_seekbar_progress_height</item>
+        <item name="android:maxHeight">@dimen/theme_seekbar_progress_height</item>
+        <item name="textPaddingTop">6dp</item>
+        <item name="android:textSize">10dip</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+    <style name="SettingsTextView" parent="TextView">
+        <item name="android:textColor">@color/settings_text_color</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:lines">1</item>
+        <item name="android:textSize">@dimen/settings_text_size</item>
+    </style>
+    <style name="SettingsTextView.Small">
+        <item name="android:textSize">@dimen/settings_text_small_size</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="SettingsTextView.Value">
+        <item name="android:textColor">@color/accent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="TextView" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Theme.Transparent" parent="android:Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="TopBarButton" parent="@android:style/Widget.DeviceDefault.ImageButton"/>
+    <style name="TopBarButton.Dark">
+        <item name="android:background">@color/panel_dark_button_bg</item>
+    </style>
+    <style name="TopBarButton.Dark.Back">
+        <item name="android:src">@drawable/btn_back_arrow</item>
+    </style>
+    <style name="TopBarTitle" parent="TopBarTitleBase">
+        <item name="android:textSize">@dimen/settings_header_text_size</item>
+    </style>
+    <style name="TopBarTitleBase" parent="@android:style/Widget.DeviceDefault.TextView">
+        <item name="android:textColor">@color/top_bar_title</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ViewPagerIndicatorStyle">
+        <item name="color">@color/default_circle_indicator_color</item>
+        <item name="activeColor">@color/default_circle_indicator_active_color</item>
+        <item name="radius">@dimen/default_circle_indicator_radius</item>
+        <item name="gap">@dimen/default_circle_indicator_gap</item>
+    </style>
+    <style name="batteryIndicatorText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="dashboardButton" parent="@style/dashboardButtonBase">
+        <item name="android:textSize">24sp</item>
+        <item name="android:paddingRight">3dip</item>
+        <item name="android:lineSpacingExtra">@dimen/dashboard_button_line_spacing</item>
+    </style>
+    <style name="dashboardButton.Error">
+        <item name="android:background">@drawable/dashboard_color_light</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FF777777</item>
+        <item name="android:shadowColor">#FFBBBBBB</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:padding">5dip</item>
+    </style>
+    <style name="dashboardButtonBase" parent="@android:style/TextAppearance.DeviceDefault.Widget.Button">
+        <item name="android:background">@drawable/dashboard_button</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:gravity">right|bottom</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="dashboardLabelVersion">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="dashboardLogo">
+        <item name="android:height">55dp</item>
+        <item name="android:scrollY">0dp</item>
+    </style>
+    <style name="emergencyText">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textSize">18dip</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="labelSplashScreen">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18dip</item>
+    </style>
+    <style name="recordButtonText" parent="batteryIndicatorText">
+        <item name="android:textSize">14dip</item>
+    </style>
+    <style name="titleTextOrangeBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/orange_bar_title_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="toppanel">
+        <item name="android:textColor">#ffff7800</item>
+        <item name="android:textSize">@dimen/top_panel_text_size</item>
+    </style>
+    <style name="toppanel.button">
+        <item name="android:textColor">@color/top_bar_selector</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="toppanel.text">
+        <item name="android:padding">1dp</item>
+    </style>
+    <style name="updaterText">
+        <item name="android:textColor">#EEEEEE</item>
+        <item name="android:textSize">16dip</item>
+    </style>
+    <style name="updaterText.bigger">
+        <item name="android:textSize">17dip</item>
+    </style>
+</resources>

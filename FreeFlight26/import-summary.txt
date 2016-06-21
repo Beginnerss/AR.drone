@@ -1,0 +1,68 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .build.xml.swp
+* INSTALL
+* ant.properties
+* apk/
+* apk/keystore/
+* apk/keystore/freeflight
+* app.map
+* build.sh
+* build.xml
+* build_ci.sh
+* check_dependencies.sh
+* environment.properties
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* jni/ => app/src/main/jni/
+* libs/android-support-v13.jar => app/libs/android-support-v13.jar
+* libs/armeabi-v7a/libadfreeflight.so => app/src/main/jniLibs/armeabi-v7a/libadfreeflight.so
+* libs/armeabi-v7a/libavcodec.so => app/src/main/jniLibs/armeabi-v7a/libavcodec.so
+* libs/armeabi-v7a/libavdevice.so => app/src/main/jniLibs/armeabi-v7a/libavdevice.so
+* libs/armeabi-v7a/libavfilter.so => app/src/main/jniLibs/armeabi-v7a/libavfilter.so
+* libs/armeabi-v7a/libavformat.so => app/src/main/jniLibs/armeabi-v7a/libavformat.so
+* libs/armeabi-v7a/libavutil.so => app/src/main/jniLibs/armeabi-v7a/libavutil.so
+* libs/armeabi-v7a/libglfix.so => app/src/main/jniLibs/armeabi-v7a/libglfix.so
+* libs/armeabi-v7a/libswscale.so => app/src/main/jniLibs/armeabi-v7a/libswscale.so
+* libs/armeabi/libadfreeflight.so => app/src/main/jniLibs/armeabi/libadfreeflight.so
+* libs/armeabi/libavcodec.so => app/src/main/jniLibs/armeabi/libavcodec.so
+* libs/armeabi/libavdevice.so => app/src/main/jniLibs/armeabi/libavdevice.so
+* libs/armeabi/libavfilter.so => app/src/main/jniLibs/armeabi/libavfilter.so
+* libs/armeabi/libavformat.so => app/src/main/jniLibs/armeabi/libavformat.so
+* libs/armeabi/libavutil.so => app/src/main/jniLibs/armeabi/libavutil.so
+* libs/armeabi/libglfix.so => app/src/main/jniLibs/armeabi/libglfix.so
+* libs/armeabi/libswscale.so => app/src/main/jniLibs/armeabi/libswscale.so
+* libs/com.sony.rdis.receiver-20111206.jar => app/libs/com.sony.rdis.receiver-20111206.jar
+* libs/com.sony.rdis.receiver.utility-20111206.jar => app/libs/com.sony.rdis.receiver.utility-20111206.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

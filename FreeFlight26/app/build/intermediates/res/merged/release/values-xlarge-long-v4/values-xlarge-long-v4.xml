@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_button_height">190dp</dimen>
+    <dimen name="dashboard_button_line_spacing">14dp</dimen>
+    <dimen name="dashboard_button_margin_hor">18dp</dimen>
+    <dimen name="dashboard_button_margin_vert">10dp</dimen>
+    <dimen name="dashboard_label_version_margin_bottom">11dp</dimen>
+    <dimen name="dashboard_label_version_margin_left">5dp</dimen>
+    <dimen name="dashboard_logo_margin_top">45dp</dimen>
+    <dimen name="dashboard_logo_padding_bottom">0dp</dimen>
+    <dimen name="firmware_curr_step_font_size">31sp</dimen>
+    <dimen name="firmware_curr_step_title_margin_top">100dp</dimen>
+    <dimen name="firmware_message_margin_top">1dp</dimen>
+    <dimen name="firmware_progress_bar_margin_top">5dp</dimen>
+    <dimen name="firmware_progress_bar_width">400dp</dimen>
+    <dimen name="firmware_steps_font_size">24sp</dimen>
+    <dimen name="firmware_steps_margin_bottom">96dp</dimen>
+    <dimen name="firmware_steps_margin_left">160dp</dimen>
+    <dimen name="firmware_steps_vertical_margin">5dp</dimen>
+    <dimen name="firmware_text_font_size">28sp</dimen>
+    <dimen name="guest_space_bottom_buttons_height">40dp</dimen>
+    <dimen name="guest_space_bottom_buttons_padding">4dp</dimen>
+    <dimen name="guest_space_bottom_buttons_text_size">24sp</dimen>
+    <dimen name="guest_space_super_stable_description_text_lineSpacingExtra">0dp</dimen>
+    <dimen name="guest_space_super_stable_description_text_size">25sp</dimen>
+    <dimen name="hint_screen_description_height">120dp</dimen>
+    <dimen name="hint_screen_description_padding_top">8dp</dimen>
+    <dimen name="hint_screen_description_text_size">24sp</dimen>
+    <dimen name="hint_screen_loading_label_padding_left">48dp</dimen>
+    <dimen name="hint_screen_loading_label_padding_right">8dp</dimen>
+    <dimen name="hint_screen_progress_padding">8dp</dimen>
+    <dimen name="hint_screen_title_height">64dp</dimen>
+    <dimen name="hint_screen_title_margin_top">26dp</dimen>
+    <dimen name="hint_screen_title_text_size">46sp</dimen>
+    <dimen name="hud_alert_text_margin_top">136dp</dimen>
+    <dimen name="hud_alert_text_size">22sp</dimen>
+    <dimen name="hud_battery_indicator_margin_left">100dp</dimen>
+    <dimen name="hud_battery_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_battery_text_size">22dp</dimen>
+    <dimen name="hud_btn_back_margin_left">8dp</dimen>
+    <dimen name="hud_btn_camera_switch_margin_right">256dp</dimen>
+    <dimen name="hud_btn_rec_margin_right">154dp</dimen>
+    <dimen name="hud_btn_settings_margin_left">224dp</dimen>
+    <dimen name="hud_popup_height">120dp</dimen>
+    <dimen name="hud_popup_margin_top">120dp</dimen>
+    <dimen name="hud_popup_text_size">24sp</dimen>
+    <dimen name="hud_popup_width">528dp</dimen>
+    <dimen name="hud_rec_text_margin_right">167dp</dimen>
+    <dimen name="hud_rec_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_top_text_margin_top">11dp</dimen>
+    <dimen name="hud_usb_indicator_margin_right">144dp</dimen>
+    <dimen name="hud_usb_indicator_text_margin_right">116dp</dimen>
+    <dimen name="hud_usb_indicator_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
+    <dimen name="hud_wifi_indicator_margin_left">320dp</dimen>
+    <dimen name="media_screen_filter_photo_video_width">84dp</dimen>
+    <dimen name="media_screen_filter_photo_width">42dp</dimen>
+    <dimen name="media_screen_thumb_size">115dp</dimen>
+    <dimen name="orange_bar_title_text_margin">32dp</dimen>
+    <dimen name="orange_bar_title_text_size">32sp</dimen>
+    <dimen name="settings_calibration_btn_padding">32dp</dimen>
+    <dimen name="settings_calibration_btn_vert_padding">0dp</dimen>
+    <dimen name="settings_edit_network_name_width">@dimen/settings_seek_width</dimen>
+    <dimen name="settings_header_height">46dp</dimen>
+    <dimen name="settings_header_text_size">15pt</dimen>
+    <dimen name="settings_hor_gap">40dp</dimen>
+    <dimen name="settings_pager_button_width">32dp</dimen>
+    <dimen name="settings_section_check_text_size">10dp</dimen>
+    <dimen name="settings_section_video_item_height">29dp</dimen>
+    <dimen name="settings_section_video_item_width">120dp</dimen>
+    <dimen name="settings_seek_bounds_value_padding">10dp</dimen>
+    <dimen name="settings_seek_text_padding_top">4dp</dimen>
+    <dimen name="settings_seek_width">368dip</dimen>
+    <dimen name="settings_statusbar_button_text_size">24dp</dimen>
+    <dimen name="settings_statusbar_button_width">344dp</dimen>
+    <dimen name="settings_text_size">19sp</dimen>
+    <dimen name="settings_text_small_size">18sp</dimen>
+    <dimen name="settings_vertical_gap">32dp</dimen>
+    <dimen name="settings_vertical_gap_small">16dp</dimen>
+    <dimen name="theme_seekbar_progress_height">18dp</dimen>
+    <dimen name="top_panel_height">25dp</dimen>
+    <dimen name="top_panel_text_margin_left">8dp</dimen>
+    <dimen name="top_panel_text_size">13sp</dimen>
+    <style name="InfosTextDescription" parent="@android:style/Widget.TextView"> 
+    	<item name="android:textSize">26sp</item>
+    	<item name="android:textColor">@color/stay_tuned_text_selector</item>
+    	<item name="android:lineSpacingMultiplier">1.33</item>
+    </style>
+    <style name="InfosTextDescription.SuperStable"> 
+    	<item name="android:textSize">@dimen/guest_space_super_stable_description_text_size</item>
+    </style>
+    <style name="InfosTextLarge" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">#000000</item> 
+    </style>
+    <style name="InfosTextMedium" parent="@android:style/Widget.TextView">
+   	  	<item name="android:textSize">33sp</item>
+        <item name="android:textColor">#000000</item> 
+    </style>
+    <style name="LabelSettings">
+    <item name="android:textColor">#000</item>
+    <item name="android:textSize">16dip</item>
+</style>
+    <style name="LabelSettings.SeekBarEdgeValues">
+    <item name="android:textSize">13dip</item>
+</style>
+    <style name="LabelSettings.Value">
+    <item name="android:textSize">21dip</item>
+</style>
+    <style name="LabelSettings.Value.Seek">
+    <item name="android:paddingBottom">7dip</item>
+</style>
+    <style name="LabelSettings.smaller">
+    <item name="android:textSize">14dip</item>
+</style>
+    <style name="batteryIndicatorText.xlarge">
+    <item name="android:textSize">19dip</item>
+</style>
+    <style name="dashboardButton" parent="@style/dashboardButtonBase">
+    <item name="android:textSize">38sp</item>
+    <item name="android:paddingRight">6dip</item>
+    <item name="android:paddingBottom">0dp</item>
+    <item name="android:lineSpacingExtra">@dimen/dashboard_button_line_spacing</item>
+</style>
+    <style name="dashboardButton.Error">
+    <item name="android:background">@drawable/dashboard_color_light</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textColor">#FF777777</item>
+    <item name="android:shadowColor">#FFBBBBBB</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">1</item>
+    <item name="android:padding">4dip</item>
+</style>
+    <style name="dashboardLabelVersion">
+    <item name="android:textColor">#FF000000</item>
+    <item name="android:textSize">18sp</item>
+</style>
+    <style name="dashboardLogo">
+    <item name="android:scrollY">0dp</item>
+    <item name="android:scaleType">fitCenter</item>
+</style>
+    <style name="emergencyText">
+    <item name="android:textColor">#FF0000</item>
+    <item name="android:textSize">18dip</item>
+</style>
+    <style name="labelSplashScreen">
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:textSize">22dip</item>
+</style>
+    <style name="recordButtonText.xlarge">
+    <item name="android:textSize">19dip</item>
+</style>
+    <style name="toppanel">
+    <item name="android:textColor">#ffff7800</item>
+    <item name="android:paddingTop">0dp</item>
+    <item name="android:paddingBottom">0dp</item>
+    <item name="android:paddingRight">8dip</item>
+    <item name="android:paddingLeft">8dip</item>
+    <item name="android:textSize">8pt</item>
+</style>
+    <style name="updaterText">
+    <item name="android:textColor">#EEEEEE</item>
+    <item name="android:textSize">14dip</item>
+</style>
+    <style name="updaterText.bigger">
+    <item name="android:textSize">16dip</item>
+</style>
+</resources>
